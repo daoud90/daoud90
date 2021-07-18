@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @daoud90
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+daoud90/daoud90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->I am interested in programming and learning new programming language and building mobile apps
+--->I’m currently learning laravel, i am trying to build a real_estate project on laravel
+
+
